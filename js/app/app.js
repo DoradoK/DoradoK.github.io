@@ -24,7 +24,7 @@ var app = angular.module("myModule", [])
 
 					{p_id: "4",
 					 p_name: "Checkered Patterned Suit, Cream Top & Black Pointed Heels",
-					 p_image: "Store_Items/item4.jpg",
+					 p_image: "Store_Items/Item4.jpg",
 					 p_price: 9000},
 
 					{p_id: "5",
